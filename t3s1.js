@@ -30,4 +30,5 @@ fruits.pop();                       //removing the last item
 console.log(fruits)
 
 console.log(Array.isArray(fruits))   //checks if a value is an array or not
-console.log("hell yae")
+console.log("hell yxcbcvbae")
+console.log("helllllllllllll")
