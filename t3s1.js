@@ -1,3 +1,4 @@
+//<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< This is a part of exercises that belongs to the 3rd term!!!! >>>>>>>>>>>>>>>
 // //////concatenation
 // const name="jhon";
 // const age=34;
@@ -30,5 +31,13 @@ fruits.pop();                       //removing the last item
 console.log(fruits)
 
 console.log(Array.isArray(fruits))   //checks if a value is an array or not
-console.log("hell yxcbcvbae")
-console.log("helllllllllllll")
+
+
+//////Objects
+const person={
+    firstname:'jhon',
+    lastname:'doe',
+    age:34,
+    hobbies:['music','movies','sports'],
+    address
+}
