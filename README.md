@@ -1,4 +1,4 @@
-# 🌱 My JavaScript Learning Diary
+# My JavaScript Learning Diary
 
 Hey there! 👋  
 Welcome to my **JavaScript learning branch** — a space where I’m uploading my exercises, notes, and small projects as I learn how to code in JavaScript.
