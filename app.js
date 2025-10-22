@@ -35,7 +35,7 @@ const emitter= new EvenEmmiter();
 emitter.on('messageLogged',(data)=>{
     console.log("listener called",data)
 })
-emitter.emit("messageLogged",{id:1 , name:"sarvin style codding"})
+emitter.emit("messageLogged",{id:1 , name:"an unknown person"})
 
 
 //HTTP
